@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PEYUSH27
 - 👀 I’m interested in Data Science ,Machine Learning ,Artificial Inteligence.
-- 🌱 I’m currently learning Python, R, Tableau , ML, AI , Deep learning.
-- 💞️ I’m looking to collaborate on topics associated with Data Science , ML , AI.
+- 🌱 I’m currently learning Python, R, Tableau , ML,AI, Deep learning.
+- 💞️ I’m looking to collaborate on topics associated with Data Science , ML.
 - 📫 How to reach me - Gmail - dhakatep100@gmail.com
 
 <!---
