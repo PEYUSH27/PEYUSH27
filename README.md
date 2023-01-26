@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/@dhakate_piyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dhakate_piyush" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/peyush dhakate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peyush dhakate" height="30" width="40" /></a>
-<a href="https://kaggle.com/peyush dhakate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="peyush dhakate" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/peyushdhakate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/peyushdhakate" height="30" width="40" /></a>
 <a href="https://instagram.com/_peyush_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_peyush_" height="30" width="40" /></a>
 </p>
 
