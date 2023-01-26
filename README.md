@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @PEYUSH27
-- 👀 I’m interested in Data Science ,Machine Learning ,Artificial Inteligence.
-- 🌱 I’m currently learning Python, R, Tableau , ML,AI, Deep learning.
-- 💞️ I’m looking to collaborate on topics associated with Data Science , ML.
-- 📫 How to reach me - Gmail - dhakatep100@gmail.com
-                      - LinkedIn- https://www.linkedin.com/in/peyush-dhakate-2061a3253/
+<h1 align="center">Hi 👋, I'm PIYUSH DHAKATE</h1>
+<h3 align="center">A passionate Data Scientist</h3>
 
-<!---
-PEYUSH27/PEYUSH27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **ML , AI**
+
+- 📫 How to reach me **dhakatep100@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/peyush-dhakate-2061a3253/](https://www.linkedin.com/in/peyush-dhakate-2061a3253/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@dhakate_piyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dhakate_piyush" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/peyush dhakate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peyush dhakate" height="30" width="40" /></a>
+<a href="https://kaggle.com/peyush dhakate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="peyush dhakate" height="30" width="40" /></a>
+<a href="https://instagram.com/_peyush_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_peyush_" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peyush27&show_icons=true&locale=en&layout=compact" alt="peyush27" /></p>
