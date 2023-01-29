@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dhakatep100@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/peyush-dhakate-2061a3253/](https://www.linkedin.com/in/peyush-dhakate-2061a3253/)
+- 📄 Know about my experiences https://www.linkedin.com/in/piyush-dhakate-2061a3253/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
