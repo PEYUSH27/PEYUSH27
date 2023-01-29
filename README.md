@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PIYUSH DHAKATE</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-- 🌱 I’m currently learning **ML , AI**
+- 🌱 I’m currently learning Machine Learning and Deep Learning 
 
 - 📫 How to reach me **dhakatep100@gmail.com**
 
