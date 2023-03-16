@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peyush27&label=Profile%20views&color=0e75b6&style=flat" alt="peyush27" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Machine Learning,Deep Learning & Data Analytics**
 
-- 💬 Ask me about **Data Science and analytics**
+- 💬 Ask me about **Data Science and Machine Learning**
 
-- 📫 How to reach me **dhakatep100@gmail.com**
+- 📫 Reach me - **dhakatep100@gmail.com**
 
 
