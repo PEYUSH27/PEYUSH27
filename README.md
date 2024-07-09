@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peyush27&label=Profile%20views&color=0e75b6&style=flat" alt="peyush27" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning,Business & Business Analytics**
+- 🌱 I’m currently studying **MBA Business Analytics at SIBM N **
 
 - 💬 Ask me about **Analytics and Machine Learning**
 
