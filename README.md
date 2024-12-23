@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peyush27&label=Profile%20views&color=0e75b6&style=flat" alt="peyush27" /> </p>
 
-- 🌱 I’m currently pursuing **MBA Business Analytics at SIBM N **
+- 🌱 I’m currently pursuing **MBA Business Analytics at Symbiosis Institute of Business Management**
 
 - 💬 Ask me about **Analytics and Machine Learning**
 
-- 📫 Reach me - **dhakatep100@gmail.com**
+- 📫 Reach me - **piyushush27@gmail.com**
 
 
